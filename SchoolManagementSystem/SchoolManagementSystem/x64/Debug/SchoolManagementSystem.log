@@ -1,0 +1,8 @@
+﻿  Person.cpp
+  SchoolManagementSystem.cpp
+  Student.cpp
+  Subject.cpp
+C:\Users\floppy\Desktop\School-Management-System\SchoolManagementSystem\SchoolManagementSystem\Subject.h(17,23): error C2535: 'int Subject::getstudentMarks(void)': member function already defined or declared
+C:\Users\floppy\Desktop\School-Management-System\SchoolManagementSystem\SchoolManagementSystem\Subject.h(14): message : see declaration of 'Subject::getstudentMarks'
+  Teacher.cpp
+  Generating Code...

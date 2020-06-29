@@ -11,7 +11,7 @@ public:
 	int getGrade();
 
 	void setGPA(double p);
-	double getGAP();
+	double getGPA();
 
 	Student();
 };

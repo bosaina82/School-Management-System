@@ -1,4 +1,8 @@
 #include "Person.h"
+#include <iostream>
+using namespace std;
+
+int Person::personsCount = 0;
 
 int Person::getID()
 {
@@ -47,6 +51,7 @@ string Person::getAddress()
 
 Person::Person()
 {
+	cout << "Person Constructor" << endl;
 	personsCount++;
 	id = personsCount;
 }
