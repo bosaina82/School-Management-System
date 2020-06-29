@@ -1,0 +1,4 @@
+﻿  Teacher.cpp
+Person.obj : error LNK2001: unresolved external symbol "private: static int Person::personsCount" (?personsCount@Person@@0HA)
+SchoolManagementSystem.obj : error LNK2019: unresolved external symbol "public: __thiscall Teacher::Teacher(void)" (??0Teacher@@QAE@XZ) referenced in function _main
+C:\Users\floppy\Desktop\School-Management-System\SchoolManagementSystem\Debug\SchoolManagementSystem.exe : fatal error LNK1120: 2 unresolved externals
